@@ -1,19 +1,19 @@
 # Hi, I'm Justin 👋
 
-I'm a computer engineering student with a passion for hands-on projects, motorcycles, and technology.  
-I love bringing ideas to life, whether that's through programming, tinkering with hardware, or building things outdoors.
+I'm a computer engineering student with a passion for hands-on tech or IoT projects, motorcycles, and all things tech.  
+I love bringing ideas and projects to life, whether that's through programming, tinkering with hardware, or building things outdoors.
 
-## 💻 Skills & Interests
+## Skills & Interests 💻
 
 - **Programming Languages:** Python, C, Java, Verilog  
-- **Web:** Mild knowledge of HTML, CSS, and JavaScript  
+- **Web dev:** Mild knowledge of HTML, CSS, and JavaScript  
 - **Hardware:** FPGA design and digital systems  
 - **Hobbies:** Motorcycling, outdoor adventures, and spending time with friends
 
-## 🚦 Featured Project: FPGA Reaction Game
+## Featured Project: FPGA Reaction Game 🚦
 
 I'm currently working on a reaction-based game implemented entirely on an FPGA using Verilog.  
-The project is a test of reflexes—press the button as soon as the LED lights up!  
+The project is a test of reflexes. Press the button as soon as the LEDs lights up and display the time it took!  
 I’ll be uploading the code, schematics, and demo soon.
 
 ## 🌱 What I’m Up To
