@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Justin 👋
 
-<!--
-**Aeeonn/Aeeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer engineering student with a passion for hands-on projects, motorcycles, and technology.  
+I love bringing ideas to life, whether that's through programming, tinkering with hardware, or building things outdoors.
 
-Here are some ideas to get you started:
+## 💻 Skills & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Python, C, Java, Verilog  
+- **Web:** Mild knowledge of HTML, CSS, and JavaScript  
+- **Hardware:** FPGA design and digital systems  
+- **Hobbies:** Motorcycling, outdoor adventures, and spending time with friends
+
+## 🚦 Featured Project: FPGA Reaction Game
+
+I'm currently working on a reaction-based game implemented entirely on an FPGA using Verilog.  
+The project is a test of reflexes—press the button as soon as the LED lights up!  
+I’ll be uploading the code, schematics, and demo soon.
+
+## 🌱 What I’m Up To
+
+- Always learning new tech and engineering skills
+- Building fun projects that combine hardware and software
+- Exploring the world on two wheels when I’m not coding
+
+---
+
+Thanks for visiting my profile! Feel free to connect, collaborate, or just say hi.
