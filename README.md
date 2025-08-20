@@ -25,3 +25,5 @@ I’ll be uploading the code, schematics, and demo soon.
 ---
 
 Thanks for visiting my profile! I don't bite, just say hi!
+
+P.S.: I don't use GitHub all that much, making my commit history very poor! But all my projects are local and worked on regularly!
