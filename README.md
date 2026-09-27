@@ -1,29 +1,14 @@
-# Hey I'm Justin
+### Hi, I'm Justin
 
-I'm a computer engineering student with a passion for hands-on tech or IoT projects, motorcycles, and all things tech.  
-I love bringing ideas and projects to life, whether that's through programming, tinkering with hardware, or building things outdoors.
+I'm a Computer Systems Engineering student at Carleton University in Ottawa, mostly interested in embedded systems, software/firmware development, and FPGAs.
 
-## Skills & Interests
+- Two terms at Ford: C++ on ECU modules, then an Android infotainment widget in Kotlin
+- Embedded C for battery management systems on Infineon AURIX microcontrollers at Neutron Controls
+- Embedded C A/B bootloader project on STM32 MCU
+- Looking for Summer 2027 internships in embedded or software
 
-- **Programming Languages:** Python, C, Java, Verilog
-- **Web dev:** Mild knowledge of HTML, CSS, and JavaScript
-- **Hardware:** FPGA design, Raspberry Pi and digital systems
-- **Hobbies:** Motorcycling, outdoor adventures and hikes, and hanging out with friends
+**Featured project on github:** [FPGA Reaction Game](https://github.com/Aeeonn/FPGA-reaction-game), a reaction-time game in Verilog for the DE10-Lite. It uses an FSM, an LFSR for the random delay, on-chip RAM for the high score, and self-checking testbenches.
 
-## Featured Project: FPGA Reaction Game
+**Languages:** C, C++, Python, Verilog, Kotlin, Java
 
-I'm currently working on a reaction-based game implemented entirely on an FPGA using Verilog.  
-The project is a test of reflexes, in the form of a game. Press the button as soon as the LEDs lights up and display the time it took to react!
-I’ll be uploading the code, schematics, and demo soon.
-
-## What I’m Up To
-
-- Always learning new tech, engineering and software skills
-- Building projects that combine hardware and software
-- Exploring the world on two wheels when I’m not studying...
-
----
-
-Thanks for visiting my profile! I don't bite, just say hi!
-
-P.S.: I don't use GitHub all that much, making my commit history very poor! But all my projects are local and worked on regularly!
+When I'm not at a keyboard, I'm usually riding my motorcycle or hiking. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/justin-dubreuil/).
